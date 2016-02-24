@@ -1,6 +1,8 @@
 # gitopen
 Open the current git repo in your browser
 
+![gitopen](./images/gitopen.gif)
+
 ## Installation
 
 ```
