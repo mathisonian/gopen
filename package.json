@@ -1,5 +1,5 @@
 {
-  "name": "gitopen",
+  "name": "gopen",
   "version": "1.0.0",
   "description": "Opens the url for the current git repository in your browser",
   "main": "index.js",

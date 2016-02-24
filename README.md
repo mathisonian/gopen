@@ -1,24 +1,24 @@
-# gitopen
+# gopen
 Open the current git repo in your browser
 
-![gitopen](./images/gitopen.gif)
+![gopen](./images/gopen.gif)
 
 ## Installation
 
 ```
-npm install -g gitopen
+npm install -g gopen
 ```
 
 ## Usage
 
 ```
-$ gitopen # opens the git url for the current repo
+$ gopen # opens the git url for the current repo
 ```
 
 or specify a path
 
 ```
-$ gitopen /path/to/my/repo
+$ gopen /path/to/my/repo
 ```
 
 ## License
