@@ -1,5 +1,7 @@
 # gopen
-Open the current git repo in your browser
+Open the current git repo in your browser.
+
+Minimal nodejs implementation of https://github.com/paulirish/git-open
 
 ## Installation
 
