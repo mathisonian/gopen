@@ -1,0 +1,28 @@
+{
+  "name": "gitopen",
+  "version": "1.0.0",
+  "description": "Opens the url for the current git repository in your browser",
+  "main": "index.js",
+  "bin": {
+    "gitopen": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathisonian/gitopen.git"
+  },
+  "author": "Matthew Conlen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathisonian/gitopen/issues"
+  },
+  "homepage": "https://github.com/mathisonian/gitopen#readme",
+  "dependencies": {
+    "git-remote-from-url": "^0.1.0",
+    "git-remote-origin-url": "^2.0.0",
+    "git-remote-protocol": "^0.1.0",
+    "open": "0.0.5"
+  }
+}
