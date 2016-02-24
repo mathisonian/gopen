@@ -1,8 +1,6 @@
 # gopen
 Open the current git repo in your browser
 
-![gopen](./images/gopen.gif)
-
 ## Installation
 
 ```
